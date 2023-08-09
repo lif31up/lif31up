@@ -1,6 +1,4 @@
 Welcome!
-
-currently aheading for
-* Nueraoscience
-* C++
-* C Desgin Pattern
+I'm currently aheading for...
+* Web Design
+* Javascript
