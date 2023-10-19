@@ -2,11 +2,5 @@
 I'm currently aheading for...
 
 * Web Design
+* Front-end Develope
 * Javascript
-
-</br>
-
-Prospectively aheading for...
-
-* BCI
-* AI
