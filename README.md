@@ -25,9 +25,8 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 # 환영합니다!
 저는 현재 다음의 기술을 공부하고 있습니다.
-* No-SQL
+* Node.js
 
 # Wellcome!
 I'm currently aheading for...
-* Firebase
-* Docker/Kubernetic
+* Node.js
