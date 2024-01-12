@@ -1,4 +1,3 @@
-# 환영합니다!
 <img alt="sonic" src="sonic.gif"/>
 
 ## 저는 다음의 것들을 할 수 있습니다.
