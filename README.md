@@ -1,6 +1,7 @@
 <img alt="sonic" src="sonic.gif"/>
 
-## 저는 다음의 것들을 할 수 있습니다.
+제 페이지에 방문해주셔서 감사합니다.
+
 ### 프로그래밍 언어
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
