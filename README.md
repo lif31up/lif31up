@@ -1,8 +1,7 @@
 <p align="center">
   <img alt="sonic" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwNndhamMzOWtsanB5NnU2bG5leWZjemxnZzh0c2tyNG1qNWVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FEVBXvnC4exOg/giphy.gif"/>
 </p>
-
-제 페이지에 방문해주셔서 감사합니다.
+<p align="center">제 페이지에 방문해주셔서 감사합니다.</p>
 
 ### 프로그래밍 언어
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
