@@ -1,4 +1,6 @@
-<img alt="sonic" src="sonic.gif"/>
+<p align="center">
+  <img alt="sonic" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwNndhamMzOWtsanB5NnU2bG5leWZjemxnZzh0c2tyNG1qNWVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FEVBXvnC4exOg/giphy.gif"/>
+</p>
 
 제 페이지에 방문해주셔서 감사합니다.
 
