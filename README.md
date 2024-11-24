@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="sonic" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwNndhamMzOWtsanB5NnU2bG5leWZjemxnZzh0c2tyNG1qNWVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FEVBXvnC4exOg/giphy.gif"/>
+  <img alt="hero_img" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwNndhamMzOWtsanB5NnU2bG5leWZjemxnZzh0c2tyNG1qNWVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FEVBXvnC4exOg/giphy.gif"/>
 </p>
 
 ### Language
@@ -40,3 +40,4 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+<img alt="palantir" height="28px" src="https://mms.businesswire.com/media/20201001005334/en/677948/2/Palantir_company_logo.jpg"/>
