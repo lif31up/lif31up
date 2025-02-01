@@ -1,12 +1,12 @@
+<a style="margin-right: 6px" href="https://www.kaggle.com/myeonghwanhan">Kaggle</a>
+<a style="margin-right: 6px" href="https://www.linkedin.com/in/lif31up/">LinkedIn</a>
+<a style="margin-right: 6px" href="mailto:nulranlcns9991@gmail.com">Email</a>
+
 <div align="center">
   <img alt="hero_img" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwNndhamMzOWtsanB5NnU2bG5leWZjemxnZzh0c2tyNG1qNWVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FEVBXvnC4exOg/giphy.gif"/>
 </div>
-<p align="center">HELLO WORLD</p>
-<div align="center">
-<a href="https://www.kaggle.com/myeonghwanhan">Kaggle</a>
-<a href="https://www.linkedin.com/in/lif31up/">LinkedIn</a>
-<a href="mailto:nulranlcns9991@gmail.com">MailTo</a>
-</div>
+
+
 
 #### 머신러닝 / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
