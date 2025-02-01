@@ -3,9 +3,9 @@
 </div>
 <p align="center">HELLO WORLD</p>
 <div align="center">
-<a href="https://www.kaggle.com/myeonghwanhan">&nbsp;Kaggle&nbsp;</a>
-<a href="https://www.linkedin.com/in/lif31up/">&nbsp;LinkedIn&nbsp;</a>
-<a href="mailto:nulranlcns9991@gmail.com">&nbsp;MailTo&nbsp;</a>
+<a href="https://www.kaggle.com/myeonghwanhan">Kaggle</a>
+<a href="https://www.linkedin.com/in/lif31up/">LinkedIn</a>
+<a href="mailto:nulranlcns9991@gmail.com">MailTo</a>
 </div>
 
 #### 머신러닝 / Machine Learning
