@@ -2,25 +2,19 @@
   <img alt="hero_img" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwNndhamMzOWtsanB5NnU2bG5leWZjemxnZzh0c2tyNG1qNWVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FEVBXvnC4exOg/giphy.gif"/>
 </div>
 <p align="center">HELLO WORLD</p>
+<div align="center">
+<a href="https://www.kaggle.com/myeonghwanhan">Kaggle</a>
+<a href="https://www.linkedin.com/in/lif31up/">LinkedIn</a>
+<a href="mailto:nulranlcns9991@gmail.com">MailTo</a>
+</div>
 
-#### 링크 / Links
-<ul>
-<li><a href="https://www.kaggle.com/myeonghwanhan">KAGGLE</a>
-<li><a href="https://www.linkedin.com/in/lif31up/">LINKEDIN</a>
-<li><a href="mailto:nulranlcns9991@gmail.com">E-MAIL</a>
-</ul>
-
-#### 토픽 / Topics
-* front-end
-* machine learning
-
-#### 기술 / Skills
-
+#### 머신러닝 / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+#### 프론트엔드 / Front-end
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -31,6 +25,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
+#### 기타 / Etc
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
