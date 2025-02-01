@@ -1,15 +1,20 @@
 <div align="center">
   <img alt="hero_img" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwNndhamMzOWtsanB5NnU2bG5leWZjemxnZzh0c2tyNG1qNWVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FEVBXvnC4exOg/giphy.gif"/>
+ hello
 </div>
 
-<div align="center">
-  <a href="https://www.kaggle.com/myeonghwanhan">KAGGLE</a>
-  <a href="https://www.linkedin.com/in/lif31up/">LINKEDIN</a>
-  <a href="mailto:nulranlcns9991@gmail.com">E-MAIL</a>
-</div>
+#### 링크 / Links
+<ul>
+<li><a href="https://www.kaggle.com/myeonghwanhan">KAGGLE</a>
+<li><a href="https://www.linkedin.com/in/lif31up/">LINKEDIN</a>
+<li><a href="mailto:nulranlcns9991@gmail.com">E-MAIL</a>
+</ul>
 
+#### 토픽 / Topics
 * front-end
 * machine learning
+
+#### 기술 / Skills
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
