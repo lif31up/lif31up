@@ -1,8 +1,8 @@
-<div style="display: flex; align-content: center; justify-content: center; padding: 1rem 0 2rem 0">
+<div align="center">
   <img alt="hero_img" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwNndhamMzOWtsanB5NnU2bG5leWZjemxnZzh0c2tyNG1qNWVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FEVBXvnC4exOg/giphy.gif"/>
 </div>
 
-<div style="display: flex; align-content: center; justify-content: center; gap: 1rem;">
+<div align="center">
   <a href="https://www.kaggle.com/myeonghwanhan">KAGGLE</a>
   <a href="https://www.linkedin.com/in/lif31up/">LINKEDIN</a>
   <a href="mailto:nulranlcns9991@gmail.com">E-MAIL</a>
