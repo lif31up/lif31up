@@ -1,6 +1,7 @@
 <a style="margin-right: 6px" href="https://www.kaggle.com/myeonghwanhan">Kaggle</a>
 <a style="margin-right: 6px" href="https://www.linkedin.com/in/lif31up/">LinkedIn</a>
 <a style="margin-right: 6px" href="mailto:nulranlcns9991@gmail.com">Email</a>
+<a style="margin-right: 6px" href="https://renoki1s-blog.gitbook.io/lif31ups-blog">GitBook</a>
 
 <div align="center">
   <img alt="hero_img" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNwNndhamMzOWtsanB5NnU2bG5leWZjemxnZzh0c2tyNG1qNWVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FEVBXvnC4exOg/giphy.gif"/>
