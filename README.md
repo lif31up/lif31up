@@ -2,7 +2,6 @@
 
 * [GitBook](https://renoki1s-blog.gitbook.io/lif31ups-blog)
 * [Kaggle](https://www.kaggle.com/myeonghwanhan)
-* [LinkedIn](https://www.linkedin.com/in/lif31up)
 * [Gmail](mailto:nulranlcns9991@gmail.com)
 
 #### Machine Learning
