@@ -2,6 +2,5 @@
 "Artificial intelligence is the most important technology of our era. It can help humanity solve problems we never imagined possible." – Sundar Pichai
 
 * [GitBook](https://renoki1s-blog.gitbook.io/lif31ups-blog)
-* [Kaggle](https://www.kaggle.com/myeonghwanhan)
-* [Gmail](mailto:nulranlcns9991@gmail.com)
 * [Google Scholar](https://scholar.google.com/citations?hl=ko&user=4F8M6pAAAAAJ&view_op=list_works&gmla=AH8HC4yADx7DTu_AY6y8WJdZQkTWIAq9RCBwEeAQxg6dHy0rJgmHBqtkKDI9SpyWBbBpN89gD4OUo1AJUbw_pPR9ppkNCrs-mCrM6cooyN_NkhGT3EcbBvfLXA)
+* [Kaggle](https://www.kaggle.com/myeonghwanhan)
