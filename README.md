@@ -5,3 +5,4 @@ I have interests in:
 * LDR Sequential Data Model and SSMs
 * Natural Language Processing
 * Conditional Computation
+* General Optimization
