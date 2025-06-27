@@ -2,7 +2,6 @@
 "Artificial intelligence is the most important technology of our era. It can help humanity solve problems we never imagined possible." – Sundar Pichai
 
 I have interests in:
-* LDR Sequential Data Model and SSMs
+* Sequential Data Processing
 * Natural Language Processing
-* Conditional Computation
-* General Optimization
+* Optimization Algorithms
