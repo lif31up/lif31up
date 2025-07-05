@@ -3,8 +3,8 @@
 
 I have interests in:
 * Sequential Data Processing
-* Generative AI
 * Natural Language Processing
+* Generative AI
 * Actionable / Explainable AI
 
 I just hope that ai makes the world with less conflicts.
