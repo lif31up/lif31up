@@ -6,4 +6,4 @@ I have interests in:
 * Natural Language Processing
 * Optimization Algorithms
 
-i just hope that ai makes the world with less conflicts
+I just hope that ai makes the world with less conflicts
