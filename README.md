@@ -4,6 +4,6 @@
 I have interests in:
 * Sequential Data Processing
 * Natural Language Processing
-* Optimization Algorithms
+* Actionable AI / Explainable AI
 
 I just hope that ai makes the world with less conflicts.
