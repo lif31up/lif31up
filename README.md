@@ -2,7 +2,7 @@
 
 ```
 my interests:
-- Long Sequence and LRD in Sequential Data Processint
+- Long Sequence and LRD in Sequential Data Processing
 - SSMs and its Hybrid Architectures
 - Delayed Reward in RL
 ```
