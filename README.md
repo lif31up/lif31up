@@ -4,5 +4,5 @@
 my interests:
 - Long Sequence and LRD in Sequential Data Processing
 - SSMs and its Hybrid Architectures
-- Delayed Reward in RL
+- RL
 ```
