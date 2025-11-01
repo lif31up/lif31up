@@ -1,7 +1,5 @@
 ```
-my interests:
-- Deep Learning for Sequential Data
-- SSMs and its Hybrid Architectures
-- Long Sequence and LRD
-- Solving Delayed Reward in RL
+- Sequential Data Processing
+- SSMs, Long Sequence and Long-Range Dependencies
+- Reinforcement Learning
 ```
