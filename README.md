@@ -4,4 +4,3 @@
 - Reinforcement Learning
 - FSL and Meta Learning
 ```
-[blog](https://lif31up.gitbook.io/blog)
