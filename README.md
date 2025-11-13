@@ -1,6 +1,5 @@
 ```
-- Sequential Data Processing and Transformers
+- Sequential Data Processing and Transformers (LLMs)
 - SSMs, Long Sequence and Long-Range Dependencies
-- NLP and LLMs
 - FSL and Meta Learning
 ```
